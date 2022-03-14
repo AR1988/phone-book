@@ -1,0 +1,6 @@
+src/main/webapp/README.md
+src/main/webapp/node_modules/
+src/main/webapp/proxy.conf.json
+src/main/webapp/dist
+src/main/webapp/.vscode
+src/main/resources/application.properties
